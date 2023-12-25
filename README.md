@@ -1,6 +1,6 @@
 # Maroon Platoon
 
-**`Lifetime Learner (Firefighter, Engineer, Developer))`**
+**`Lifetime Learner (Firefighter, Engineer, Developer)`**
 
 I'm a volunteer firefighter by choice, chemical engineer by trade, and lifetime learner by my passion for soplving problems. All coding projects are built from the ground up, from planning and designing all the way through solving real-world challenges using code. I'm looking forward to roadmapping my coding journey. 
 
