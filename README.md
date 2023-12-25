@@ -6,7 +6,7 @@ I'm a volunteer firefighter by choice, chemical engineer by trade, and lifetime 
 
 <!-- Social icons section -->
 <h2>Connect With Me</h2>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
