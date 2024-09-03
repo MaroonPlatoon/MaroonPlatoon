@@ -2,9 +2,9 @@
 <h1> Maroon Platoon </h1>
 <p>
   
-**`Lifetime Learner (Firefighter, Engineer, Developer)`**
+**`Lifetime Learner (First Responder, Engineer, Developer)`**
   
-I'm a volunteer firefighter by choice, chemical engineer by trade, and lifetime learner by my passion for solving problems. All coding projects are built from the ground up, from planning and designing all the way through solving real-world challenges using code. I'm looking forward to roadmapping my coding journey.
+I'm a volunteer first responder by choice, chemical engineer by trade, and lifetime learner by my passion for solving problems. All coding projects are built from the ground up, from planning and designing all the way through solving real-world challenges using code. I'm looking forward to roadmapping my coding journey.
 </p>
 <br />
 
